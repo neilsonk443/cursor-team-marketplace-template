@@ -4,10 +4,11 @@ An example Team Marketplace that includes a set of starter plugins for Cursor.
 
 ## Included plugins
 
-This repo currently ships five grouped plugins:
+This repo ships grouped starter plugins, including:
 
 - **git-workflows**: commit, PR, CI, merge conflict, and branch validation workflows
 - **documentation**: README updates, weekly review summaries, markdown naming, and docs writing
+- **datadog**: Datadog MCP plugin (preview; logs, metrics, traces, dashboards) from [datadog-labs/cursor-plugin](https://github.com/datadog-labs/cursor-plugin)
 - **pm**: Ticket-oriented PM workflows with MCP config, ticket writing, and board summarization
 - **design**: wireframes, component design support, and mockup workflow
 - **testing-reliability**: Datadog dashboards, performance optimization, and testing agents

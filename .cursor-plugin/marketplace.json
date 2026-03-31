@@ -21,6 +21,11 @@
       "description": "Documentation workflows for README, weekly review, markdown naming, and doc writing"
     },
     {
+      "name": "datadog",
+      "source": "datadog",
+      "description": "Datadog MCP integration: query logs, metrics, traces, dashboards, and monitors (preview; sourced from datadog-labs)"
+    },
+    {
       "name": "pm",
       "source": "pm",
       "description": "PM workflows with MCP integrations, ticket writing, and board summarization"
